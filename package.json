@@ -1,6 +1,6 @@
 {
-  "name": "@hyeongjin/nestjs_user",
-  "version": "1.0.0",
+  "name": "@HyeongJinK/nestjs_user",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
